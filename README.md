@@ -1,2 +1,3 @@
 # hello-world
-first repo
+
+Hello, I haven't done any serious coding in a long time, but I'm looking to change that.  I studied computer science in the early 90s and worked as a developer for a decade or so.  My success as a developer led to promotions that took me away from coding and into management, and before long I wasn't coding anymore.  After over a decade away from coding I miss it and realized I wasn't doing the things I really enjoyed doing.  So now I am focusing on brushing up my coding skills, starting with iOS development because it just looks like a lot of fun.  So hopefully I will eventually be able to shift the focus of my career back to coding.  A little scary, and very exciting!
